@@ -1,0 +1,36 @@
+/**
+ * @name Theme DENQWX
+ * @author DENQWX
+ * @version 0.1.X
+ * @description A theme with DENQWX
+ * @source https://github.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/tree/master/Themes/GGO_Kirit
+ */
+
+@import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
+@import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
+
+:root{
+    --background: url('https://www.google.com/search?sca_esv=23fe561e8cb38367&sxsrf=ACQVn08vzJl2kOFZRPB8xHgguKEc-Qi8_w:1710442384856&q=%D0%B3%D1%83%D0%B1%D0%BA%D0%B0+%D0%B1%D0%BE%D0%B1&tbm=isch&source=lnms&sa=X&ved=2ahUKEwie8oe2tvSEAxVrxQIHHdvyCgUQ0pQJegQIDRAB#imgrc=EwtJp_U869pFSM');
+    --activetext-colour: white;
+
+    --primary1-colour: red;
+    --primary2-colour: rgba(255,0,0,0.5);
+    --primary3-colour: rgba(100,0,0,0.6);
+
+    --secondary1-colour: rgba(50,50,50,0.3);
+    --secondary2-colour: rgba(100,100,100,0.5);
+    --secondary3-colour: rgba(0,0,0,0.5);
+
+    --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+}
+  
+/*
+Theme Owned and Made by dakstar
+  
+Background Img: https://www.google.com/search?sca_esv=23fe561e8cb38367&sxsrf=ACQVn08vzJl2kOFZRPB8xHgguKEc-Qi8_w:1710442384856&q=%D0%B3%D1%83%D0%B1%D0%BA%D0%B0+%D0%B1%D0%BE%D0%B1&tbm=isch&source=lnms&sa=X&ved=2ahUKEwie8oe2tvSEAxVrxQIHHdvyCgUQ0pQJegQIDRAB#imgrc=EwtJp_U869pFSM
+The 2 items above are not owned by me, They go to there respected owners 
+*/
